@@ -45,8 +45,16 @@ qa_pairs = {
     "What are Inzint's values to society?": "Inzint's values are the guiding principles upon which the company was founded.",
     "What types of systems does Inzint support?": "Inzint supports various systems including Google Apps, Office365, and custom solutions tailored to your needs.",
     "How does Inzint handle flat-rate systems?": "Inzint offers flat-rate billing to budget your IT expenses and provides customized solutions.",
-    "What solutions does Inzint offer for internal IT departments?": "Inzint offers scalable solutions tailored to meet the specific needs of internal IT departments."
+    "What solutions does Inzint offer for internal IT departments?": "Inzint offers scalable solutions tailored to meet the specific needs of internal IT departments.",
+    "Who are some members of Team Inzint?": "Some members of Team Inzint include Vikas, Kakoli, Dhiraj, Garima, Amit, Aman, Dennis, Jayesh, Samkeet, Mordhawaj, Paras, Shivam, Hardik, Saksham, Mohini, Vartika Pandey, Vanshika, Kunal, Radhika.",
+    "What collaborative approach does Inzint adopt for innovation?":"Inzint adopts a collaborative approach to innovation by leveraging innovation labs, future financial ecosystems, alliances & partners.",
+    "How does Inzint's approach contribute to business success?": "Inzint's approach includes data transformation and digital enablement to accelerate the 'Data-to-Insight-to-Action' cycle and drive key business outcomes",
+    "What are the reasons for choosing Inzint?": "Inzint emphasizes hiring smart people, providing superior customer service, dedicated support, and delivering cutting-edge IT solutions."
+
+
+
 }
+
 
 
 @app.route('/')
