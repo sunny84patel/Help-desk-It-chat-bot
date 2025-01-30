@@ -10,7 +10,7 @@ app = Flask(__name__)
 tokenizer = DistilBertTokenizer.from_pretrained("distilbert-base-uncased")
 model = TFDistilBertForQuestionAnswering.from_pretrained("distilbert-base-uncased-distilled-squad")
 
-API_KEY = "AIzaSyCB0FsriiPfyTLwZGM9z_cDLdl03MFjeFQ"
+API_KEY = ""
 gai = genai.configure(api_key=API_KEY)
 
 generation_config = {
